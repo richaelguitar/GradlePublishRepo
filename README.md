@@ -1,0 +1,2 @@
+# GradlePublishRepo
+使用Gradle在bintray上发布自己的公共库统一文件
